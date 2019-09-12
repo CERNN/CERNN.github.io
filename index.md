@@ -1,3 +1,21 @@
+# Page in construction
+
+The Research Center for Rheology and Non-Newtonian Fluids (CERNN) was created by faculty members of the Mechanical Engineering Courses (undergraduate and graduate levels) of the Federal University of Technology-Paraná (UTFPR). 
+
+CERNN works aim at researching in the areas of Flow, Heat Transfer and Rheology of Non-Newtonian Fluids, either in continuum or in porous-continuum media. The conducted researches find application in several areas, such as Food, Petroleum and Cosmetic Industry, etc.
+
+[Main Page](http://www.cernn.ct.utfpr.edu.br/?page_id=2701&lang=en)
+
+
+## Current Projects : 
+
+### Lattice Boltzmann
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/CERNN/CERNN.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
