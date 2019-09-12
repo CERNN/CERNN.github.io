@@ -11,3 +11,6 @@ CERNN works aim at researching in the areas of Flow, Heat Transfer and Rheology 
 
 ### Lattice Boltzmann
 
+LBM (Lattice Boltzmann method) project for flow simulation, using C/C++ and CUDA API. The velocity sets supported are D3Q19 and D3Q27.
+
+This software is provided under the [GPLv2 license]
