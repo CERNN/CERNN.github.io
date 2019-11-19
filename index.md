@@ -4,7 +4,7 @@ The Research Center for Rheology and Non-Newtonian Fluids (CERNN) was created by
 
 CERNN works aim at researching in the areas of Flow, Heat Transfer and Rheology of Non-Newtonian Fluids, either in continuum or in porous-continuum media. The conducted researches find application in several areas, such as Food, Petroleum and Cosmetic Industry, etc.
 
-[Main Page](http://www.cernn.ct.utfpr.edu.br/?page_id=2701&lang=en)
+[Main Page](http://cernn.ct.utfpr.edu.br/en/)
 
 
 ## Current Projects : 
